@@ -1,0 +1,53 @@
+.ricomida {
+    font-family: 'Lobster', cursive;
+    padding-bottom: 30px;
+    
+}
+.pizza p{
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+}
+
+dd {
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+}
+.rojo{  font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+
+}
+
+hr {
+    background: rgb(11,11,0);
+    background: linear-gradient(90deg, rgba(11,11,0,1) 13%, 
+    rgba(113,110,106,0.9398925952216824) 52%, rgba(232,231,230,1) 88%);
+    
+}
+
+.textouno{
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+}
+.carousel-indicators [data-bs-target]
+{
+   width: 15px;
+   height: 15px;
+    border-radius: 50%;
+    background-color:#373A3C;
+    
+}
+
+
+.fin{  font-family: 'Cabin', sans-serif;
+    font-size: 50px;
+    padding-top:50px
+}
+
+span {
+    font-size: large;
+}
+
+.card-title{
+    padding-top: 150px;
+} 
+
